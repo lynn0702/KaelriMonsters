@@ -1,0 +1,275 @@
+{
+  "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
+  "version": "0.1",
+  "id": "d1531af8-f3ca-4dcf-ba62-f1a0534a01a5",
+  "dateCreated": "2024-04-12T18:56:00.716Z",
+  "dateModified": "2024-04-12T18:56:00.900Z",
+  "dateTouched": "2024-04-12T18:56:00.901Z",
+  "name": "Aboleth D8 D8 D8 D8",
+  "game": "",
+  "description": "Ageless primordial horror from the darkest depths of the sea.",
+  "pronouns": "",
+  "traitSets": [
+    {
+      "name": "Drives",
+      "description": "Two goals that often compete with each other for attention.",
+      "nounSingular": "Drive",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Seek Out New Minds and their Secrets",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Plot Patiently From the Watery Depths",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "",
+      "nounSingular": "Signature Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Eternally Perfect Memory",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Colossal Might",
+          "value": 12,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Perceptive Manipulator",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Probing Telepathy",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Tentacles",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Cult of Enthralled Servitors",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-compact",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "All-Out Attack",
+          "value": 0,
+          "description": "Spend a plot point to target multiple opponents when you roll to inflict Damaged stress. For each additional target, add D6 and keep an extra effect die.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Underwater Adaptation",
+          "value": 0,
+          "description": "Spend a plot point to gain a D8 Amphibious asset. While you have this asset, you can breathe both air and water, and you swim as fast as you can walk.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Infectious Touch",
+          "value": 0,
+          "description": "Keep an additional effect die to inflict a disease related complication whenever the aboleth causes stress through contact. Anyone taken out by or ending a scene with this complication can only breathe underwater.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Servitor",
+          "value": 0,
+          "description": "When anyone is taken out by you with Enthralled, you gain a D6 asset representing their telepathic access to all that character’s knowledge as that character falls under your mind control. If a controlled target takes further stress, they may test to recover their Enthralled and break the control.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Psychic Drain",
+          "value": 0,
+          "description": "Take D6 Exhausted to transfer your Damaged stress to a servitor.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/742fa9d1-6d59-4e26-b187-77a417e52a95/ddf3ogk-6bbabed8-08b3-4f03-bd23-82a609d005fd.jpg/v1/fill/w_900",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}
