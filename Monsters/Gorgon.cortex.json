@@ -1,0 +1,248 @@
+{
+  "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
+  "version": "0.1",
+  "id": "d2383419-1ee2-4b7e-8b0d-6e4af3c68488",
+  "dateCreated": "2024-04-12T18:56:14.044Z",
+  "dateModified": "2024-04-12T18:56:14.044Z",
+  "dateTouched": "2024-04-12T18:56:14.044Z",
+  "name": "Gorgon D8 D8 D8 D8",
+  "game": "",
+  "description": null,
+  "pronouns": "",
+  "traitSets": [
+    {
+      "name": "Drives",
+      "description": "Two goals that often compete with each other for attention.",
+      "nounSingular": "Drive",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Isolate and Protect Myself from Threats",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Seek Companionship and Break My Lonely Curse",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "",
+      "nounSingular": "Signature Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Brawn",
+          "value": 12,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Composure",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Perception",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Gore",
+          "value": 12,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Hooves",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-compact",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Overrun",
+          "value": 0,
+          "description": "When you roll to inflict Damaged stress, add D6 and step up your effect die. If you succeed, keep a second effect die against that foe as a complication related to being shoved or trampled.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Petrify",
+          "value": 0,
+          "description": "When a foe’s roll to inflict stress or a complication on you fails, spend a plot point to inflict your effect die as a complication related to slowly turning that foe to stone.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Turn to Stone",
+          "value": 0,
+          "description": "When you roll to inflict a complication related to slowly turning a foe to stone, add D8 and step up your effect die.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/DnD_Medusa.png/800px-DnD_Medusa.png",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}

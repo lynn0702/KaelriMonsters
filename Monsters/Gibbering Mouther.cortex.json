@@ -1,0 +1,230 @@
+{
+  "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
+  "version": "0.1",
+  "id": "53c3671e-b185-47b3-a3b3-0de74dbaf224",
+  "dateCreated": "2024-04-12T18:56:14.033Z",
+  "dateModified": "2024-04-12T18:56:14.033Z",
+  "dateTouched": "2024-04-12T18:56:14.033Z",
+  "name": "Gibbering Mouther D8 D8 D8 D8",
+  "game": "",
+  "description": null,
+  "pronouns": "",
+  "traitSets": [
+    {
+      "name": "Drives",
+      "description": "Two goals that often compete with each other for attention.",
+      "nounSingular": "Drive",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Spread Madness and Chaos Throughout the Land",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Find Order and Understanding in the Chaos",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "",
+      "nounSingular": "Signature Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Bites",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-compact",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "All-Out Attack",
+          "value": 0,
+          "description": "Spend a plot point to target multiple opponents when you roll to inflict Damaged stress. For each additional target, add D6 and keep an extra effect die.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Aberrant Ground",
+          "value": 0,
+          "description": "The ground around you is doughlike and difficult to move from. When a foe who is close enough to touch you fails a roll to inflict Damaged stress on you, spend a plot point to inflict D6 a movement restricting complication on that foe, in addition to any other consequence of failure.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Gibbering",
+          "value": 0,
+          "description": "You babble incoherently, causing those who hear you to act erratically. When you use your All-Out Attack SFX, add a D8 instead of D6 and instead of inflicting Damaged stress, inflict Erratic complications.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Random Action",
+          "value": 0,
+          "description": "At the start of a character's turn, if they have an Erratic complication from you, you can roll a die equal to that complication. On a roll of 1-4, the character cannot roll to inflict stress or complications this turn. On a roll of 5 or 6, they can only roll to create an asset related to fleeing or hiding. On a roll of 7 or higher, they can only roll to make a melee attack against a randomly determined creature within reach, though if no creature is within reach they can roll to create an asset related to fleeing or hiding. Whatever the result, after you roll, their Erratic complication is removed.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Blinding Spittle",
+          "value": 0,
+          "description": "You may use your All-out attack to inflict a blinding related complication instead of Damaged stress",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}

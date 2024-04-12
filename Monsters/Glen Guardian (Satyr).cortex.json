@@ -1,0 +1,214 @@
+{
+  "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
+  "version": "0.1",
+  "id": "875cb5ee-2538-4abf-b801-4232b77b3909",
+  "dateCreated": "2024-04-12T18:56:14.555Z",
+  "dateModified": "2024-04-12T18:56:14.555Z",
+  "dateTouched": "2024-04-12T18:56:14.555Z",
+  "name": "Glen Guardian (Satyr) D8",
+  "game": "",
+  "description": null,
+  "pronouns": "",
+  "traitSets": [
+    {
+      "name": "Drives",
+      "description": "Two goals that often compete with each other for attention.",
+      "nounSingular": "Drive",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Preserve My Forests",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Protect Travelers",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "",
+      "nounSingular": "Signature Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Perception",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Performance",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Stealth",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Ram",
+          "value": 4,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Shortsword",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Shortbow",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-compact",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Magic Resistance",
+          "value": 0,
+          "description": "When you roll to avoid complications or non-Damaged stress from magic. Step down that roll’s effect die against you. You can also spend a plot point to ignore the stress or complication entirely.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}

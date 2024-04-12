@@ -1,0 +1,257 @@
+{
+  "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
+  "version": "0.1",
+  "id": "40cbaab4-db12-439b-ba9a-9bc2c3d6412b",
+  "dateCreated": "2024-04-12T18:56:11.496Z",
+  "dateModified": "2024-04-12T18:56:11.496Z",
+  "dateTouched": "2024-04-12T18:56:11.496Z",
+  "name": "Ghost D8 D8 D8 D8",
+  "game": "",
+  "description": null,
+  "pronouns": "",
+  "traitSets": [
+    {
+      "name": "Drives",
+      "description": "Two goals that often compete with each other for attention.",
+      "nounSingular": "Drive",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Resolve Your Unfinished Business and Move On",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Cling to the Mortal World by Haunting the Living",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "",
+      "nounSingular": "Signature Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Withering Touch",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Incorporeal",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Ethereal Sight",
+          "value": 6,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Anchors That Tie You to the Mortal World",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-compact",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Already Dead",
+          "value": 0,
+          "description": "When you would take Damaged stress, spend a plot point to step down the stress you take. If this steps the stress down below D6, or if it’s from a non-supernatural source, you take no stress at all.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Disembodied",
+          "value": 0,
+          "description": "Earn a plot point by taking a D6 complication related to living creatures being unable to perceive or touch you unless you concentrate. When that complication would end, it instead steps down and becomes Demoralized stress for you.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Frightful Presence",
+          "value": 0,
+          "description": "When you succeed on a roll to inflict non-Demoralized stress or a complication, spend a plot point to inflict D8 Demoralized stress on the same foe.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Ghostly Nature",
+          "value": 0,
+          "description": "Double Incorporeal on rolls to interact with ghosts or other incorporeal beings, and on rolls to inflict Exhausted or Enthralled on nearby living creatures by siphoning their lifeforce. If you succeed, spend a plot point to step up your effect die.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Possession",
+          "value": 0,
+          "description": "When you take someone out with Demoralized, Enthralled, or Exhausted, shut down your other SFX to possess their body, gaining it as a D8 asset. Until the asset ends or they recover, you control the body as if it were your own, and the possessed character's own consciousness is dormant. Once you leave the body, you recover your other SFX, and any Damaged stress you had remains with the body.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}
