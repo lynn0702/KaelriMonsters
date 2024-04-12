@@ -1,0 +1,320 @@
+{
+  "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
+  "version": "0.1",
+  "id": "4f21015d-457d-41b4-a9cb-88e3208192e8",
+  "dateCreated": "2024-04-12T18:56:14.815Z",
+  "dateModified": "2024-04-12T18:56:14.815Z",
+  "dateTouched": "2024-04-12T18:56:14.815Z",
+  "name": "Vampire D8 D8 D8 D8",
+  "game": "",
+  "description": null,
+  "pronouns": "",
+  "traitSets": [
+    {
+      "name": "Drives",
+      "description": "Two goals that often compete with each other for attention.",
+      "nounSingular": "Drive",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Feed My Insatiable Thirsts for Blood and Power",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Find Relief from Eternal Loneliness",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "",
+      "nounSingular": "Signature Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Inhuman Speed & Might",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Unnatural Charm",
+          "value": 10,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Claws & Fangs",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Legendary Resistance",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Predatory Senses & Stealth",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Wall Crawler",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-compact",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "All-Out Attack",
+          "value": 0,
+          "description": "Spend a plot point to target multiple opponents when you roll to inflict Damaged stress. For each additional target, add D6 and keep an extra effect die.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Charming Gaze",
+          "value": 0,
+          "description": "When you roll to inflict Enthralled on a living creature who can see you, add D6 and step up your effect die. While someone is taken out by Enthralled you inflicted, they become a D6 asset for you as your charmed ally and a willing victim for your Insatiable Thirst SFX until the asset ends, but after you inflict Damaged on them or someone they care about, they can immediately roll to recover their Enthralled.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Insatiable Thirst",
+          "value": 0,
+          "description": "When you inflict Damaged on a willing or helpless target, step down  one of your stresses or your Bloodthirst complication. You can never step down a Bloodthirst complication on yourself except by using this SFX.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Legendary Resistance",
+          "value": 0,
+          "description": "Step down Legendary Resistance in lieu of spending a plot point or to ignore an incoming complication or stress not related to your Vampire Weakness. Recover Legendary Resistance at the beginning of a new scene.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Shift Forms",
+          "value": 0,
+          "description": "Spend a plot point to take on a new form and gain a related D8 asset (Mist Form, Shape of a Bat, etc.), then stay in that form as long as the asset lasts. While in Mist Form, you can’t inflict stress, but you can flee the current scene instantly at any time by taking a Bloodthirst D6 complication. If you are taken out by any means other than a vampire weakness, you flee the scene in this way automatically.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    },
+    {
+      "name": "SFX",
+      "description": "",
+      "nounSingular": "SFX",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Vampiric Resilience",
+          "value": 0,
+          "description": "Take a Bloodthirst D6 complication to step down your Damaged by two steps, to wake from your daily slumber, or to ignore stress from necrotic energies or nonmagical weapons. When you take stress from a vampire weakness, shutdown Vampiric Resilience and gain a plot point. Recover when you use your Insatiable Thirst SFX.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Vampire Weaknesses",
+          "value": 0,
+          "description": "Creature of Darkness. When you take Damaged from fire, holiness, or radiance, step up the stress you take and gain a plot point.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Forbiddance",
+          "value": 0,
+          "description": "The vampire can't enter a residence without an invitation from one of the occupants.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Harmed by Running Water and Sunlight",
+          "value": 0,
+          "description": "Take D8 Damaged stress whenever you enter running water, sunlight, or holy ground, or when you make a roll there. While you are in such circumstances, both 1 and 2 on your dice count as hitches.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Stake to the Heart",
+          "value": 0,
+          "description": "If you are taken out by a piercing weapon made of wood driven into your heart, you are also paralyzed until it is removed.",
+          "traits": null,
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default",
+            "hasAttributes": false
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DnD_Vampire.png/1024px-DnD_Vampire.png",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}
