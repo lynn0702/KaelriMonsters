@@ -3,7 +3,7 @@ A collection of json of Cortex Prime compatible monsters for use with https://co
 
 # MONSTERS!
 *By: Lynn Jones, Jeremy Forbing*
-*Special Thanks to the Xine[https://xine.ink] team for their patience while WIP updates were provided.*
+*Special Thanks to the [Xine](https://xine.ink) team for their patience while WIP updates were provided.*
 
 ## Introduction
 Based on the the DnD 5.1 SRD release here in lies a creative interpretation of all of those monsters compatible with Cortex Prime. While these monsters can be used as is, the intention is they serve as an example and starting place for your own creations and adaptations. Do not feel like any entry is a definitive and canonical representation that cannot be altered. 
