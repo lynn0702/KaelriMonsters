@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "9b33cedd-d5a2-40c5-a4e2-c20640d702bf",
-  "dateCreated": "2024-04-12T18:56:04.616Z",
-  "dateModified": "2024-04-12T18:56:04.616Z",
-  "dateTouched": "2024-04-12T18:56:04.616Z",
+  "id": "c54a5624-ead5-4a0c-91a6-eb024b021de1",
+  "dateCreated": "2024-06-22T13:26:56.066Z",
+  "dateModified": "2024-06-22T13:26:56.066Z",
+  "dateTouched": "2024-06-22T13:26:56.066Z",
   "name": "Barbed Devil D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -120,6 +120,15 @@
           "custom": {}
         },
         {
+          "name": "Devil’s Sight",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
           "name": "Claw",
           "value": 6,
           "description": "",
@@ -188,15 +197,6 @@
           "sfx": [],
           "tags": [],
           "custom": {}
-        },
-        {
-          "name": "Barbed Hide",
-          "value": 0,
-          "description": "When a foe's roll to inflict Damaged stress on you fails, spend a plot point to inflict D6 Damaged stress on that foe.",
-          "traits": null,
-          "sfx": [],
-          "tags": [],
-          "custom": {}
         }
       ],
       "sfx": [],
@@ -224,9 +224,9 @@
       "nounPlural": "",
       "traits": [
         {
-          "name": "Devil's Sight",
+          "name": "Barbed Hide",
           "value": 0,
-          "description": "Magical darkness doesn't impede your darkvision.",
+          "description": "When a foe's roll to inflict Damaged stress on you fails, spend a plot point to inflict D6 Damaged stress on that foe.",
           "traits": null,
           "sfx": [],
           "tags": [],

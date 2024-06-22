@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "b9ab1faa-2db5-4b13-bcb4-adc5502fb7b4",
-  "dateCreated": "2024-04-12T18:56:14.302Z",
-  "dateModified": "2024-04-12T18:56:14.302Z",
-  "dateTouched": "2024-04-12T18:56:14.302Z",
+  "id": "651f05ac-ce51-4248-a8f6-d113e1dac50b",
+  "dateCreated": "2024-06-22T13:26:58.417Z",
+  "dateModified": "2024-06-22T13:26:58.417Z",
+  "dateTouched": "2024-06-22T13:26:58.417Z",
   "name": "Lemure D8",
   "game": "",
   "description": null,
@@ -91,6 +91,15 @@
           "sfx": [],
           "tags": [],
           "custom": {}
+        },
+        {
+          "name": "Devil’s Sight",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
         }
       ],
       "sfx": [],
@@ -121,15 +130,6 @@
           "name": "Resistant",
           "value": 0,
           "description": "When a roll would inflict stress or a complication on you from cold, fire or poison, step down that roll’s effect die against you. You can also spend a plot point to ignore the stress or complication entirely.",
-          "traits": null,
-          "sfx": [],
-          "tags": [],
-          "custom": {}
-        },
-        {
-          "name": "Devil's Sight",
-          "value": 0,
-          "description": "No form of darkness can impede your vision.",
           "traits": null,
           "sfx": [],
           "tags": [],

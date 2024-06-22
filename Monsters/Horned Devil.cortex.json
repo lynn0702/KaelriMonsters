@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "c37d60a3-50b2-4c5a-9e5a-2427a372ba13",
-  "dateCreated": "2024-04-12T18:56:14.193Z",
-  "dateModified": "2024-04-12T18:56:14.193Z",
-  "dateTouched": "2024-04-12T18:56:14.193Z",
+  "id": "5a6ffd11-2527-4646-b6c6-367a2780bb92",
+  "dateCreated": "2024-06-22T13:26:58.312Z",
+  "dateModified": "2024-06-22T13:26:58.312Z",
+  "dateTouched": "2024-06-22T13:26:58.312Z",
   "name": "Horned Devil D10 D10 D10",
   "game": "",
   "description": null,
@@ -127,6 +127,15 @@
           "sfx": [],
           "tags": [],
           "custom": {}
+        },
+        {
+          "name": "Devil’s Sight",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
         }
       ],
       "sfx": [],
@@ -196,15 +205,6 @@
       "nounSingular": "SFX",
       "nounPlural": "",
       "traits": [
-        {
-          "name": "Devil's Sight",
-          "value": 0,
-          "description": "Magical darkness doesn't impede your darkvision.",
-          "traits": null,
-          "sfx": [],
-          "tags": [],
-          "custom": {}
-        },
         {
           "name": "Magic Resistance",
           "value": 0,

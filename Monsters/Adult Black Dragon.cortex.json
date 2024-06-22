@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "c702745c-4ccb-4174-bc56-649de3950676",
-  "dateCreated": "2024-04-12T18:56:01.241Z",
-  "dateModified": "2024-04-12T18:56:01.241Z",
-  "dateTouched": "2024-04-12T18:56:01.241Z",
+  "id": "5d974e76-3608-4653-a16c-6e034557dc4f",
+  "dateCreated": "2024-06-22T13:26:55.997Z",
+  "dateModified": "2024-06-22T13:26:55.997Z",
+  "dateTouched": "2024-06-22T13:26:55.997Z",
   "name": "Adult Black Dragon D10 D10 D10 D10",
   "game": "",
   "description": null,
@@ -102,7 +102,7 @@
           "custom": {}
         },
         {
-          "name": "Legendary Resistance",
+          "name": "Resilience",
           "value": 8,
           "description": "",
           "traits": [],
@@ -244,7 +244,7 @@
         {
           "name": "Greater Acid Breath",
           "value": 0,
-          "description": "When you use your All-Out Attack SFX, add D10 for each additional target instead of a D6, then shut down this SFX. Step down your Legendary Resistance asset to recover.",
+          "description": "When you use your All-Out Attack SFX, add D10 for each additional target instead of a D6, then shut down this SFX. Step down your Resilience asset to recover.",
           "traits": null,
           "sfx": [],
           "tags": [],
@@ -253,7 +253,7 @@
         {
           "name": "Legendary Resistance",
           "value": 0,
-          "description": "Step down Legendary Resistance in lieu of spending a plot point or to ignore an incoming complication or stress. Recover Legendary Resistance at the beginning of a new scene.",
+          "description": "Step down Resilience in lieu of spending a plot point or to ignore an incoming complication or stress. Recover Resilience at the beginning of a new scene.",
           "traits": null,
           "sfx": [],
           "tags": [],

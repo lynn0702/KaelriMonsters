@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "8b28b52a-9126-47de-8f20-ea11eff168ba",
-  "dateCreated": "2024-04-12T18:56:05.730Z",
-  "dateModified": "2024-04-12T18:56:05.730Z",
-  "dateTouched": "2024-04-12T18:56:05.730Z",
+  "id": "fa1025d1-f8a0-4ca9-8c6c-37851f5f7b4c",
+  "dateCreated": "2024-06-22T13:26:56.114Z",
+  "dateModified": "2024-06-22T13:26:56.114Z",
+  "dateTouched": "2024-06-22T13:26:56.114Z",
   "name": "Chain Devil D8 D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -109,6 +109,15 @@
           "sfx": [],
           "tags": [],
           "custom": {}
+        },
+        {
+          "name": "Devil’s Sight",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
         }
       ],
       "sfx": [],
@@ -178,15 +187,6 @@
       "nounSingular": "SFX",
       "nounPlural": "",
       "traits": [
-        {
-          "name": "Devil's Sight",
-          "value": 0,
-          "description": "Magical darkness doesn't impede your darkvision.",
-          "traits": null,
-          "sfx": [],
-          "tags": [],
-          "custom": {}
-        },
         {
           "name": "Magic Resistance",
           "value": 0,

@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "fa9926a4-3dd2-405e-bc4d-766e84b4c4b5",
-  "dateCreated": "2024-04-12T18:56:05.843Z",
-  "dateModified": "2024-04-12T18:56:05.843Z",
-  "dateTouched": "2024-04-12T18:56:05.843Z",
+  "id": "17459305-6542-479e-820e-5c5e9d9a0630",
+  "dateCreated": "2024-06-22T13:26:56.115Z",
+  "dateModified": "2024-06-22T13:26:56.115Z",
+  "dateTouched": "2024-06-22T13:26:56.115Z",
   "name": "Chimera D8 D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -102,7 +102,7 @@
           "custom": {}
         },
         {
-          "name": "Legendary Resistance",
+          "name": "Resilience",
           "value": 6,
           "description": "",
           "traits": [],
@@ -183,7 +183,7 @@
         {
           "name": "Fire Breath",
           "value": 0,
-          "description": "When you use your All-Out Attack SFX, add D8 for each additional target instead of a D6, then shut down this SFX. Step down your Legendary Resistance asset to recover.",
+          "description": "When you use your All-Out Attack SFX, add D8 for each additional target instead of a D6, then shut down this SFX. Step down your Resilience asset to recover.",
           "traits": null,
           "sfx": [],
           "tags": [],

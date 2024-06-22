@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "962ff673-edbb-4fb9-9ebc-67f59404bf40",
-  "dateCreated": "2024-04-12T18:56:01.292Z",
-  "dateModified": "2024-04-12T18:56:01.292Z",
-  "dateTouched": "2024-04-12T18:56:01.292Z",
+  "id": "3ae2b0b5-5a22-4260-ab33-5d204b6b9653",
+  "dateCreated": "2024-06-22T13:26:56.001Z",
+  "dateModified": "2024-06-22T13:26:56.001Z",
+  "dateTouched": "2024-06-22T13:26:56.001Z",
   "name": "Adult Bronze Dragon D10 D10 D10 D10 D10",
   "game": "",
   "description": null,
@@ -111,7 +111,7 @@
           "custom": {}
         },
         {
-          "name": "Legendary Resistance",
+          "name": "Resilience",
           "value": 8,
           "description": "",
           "traits": [],
@@ -262,7 +262,7 @@
         {
           "name": "Legendary Resistance",
           "value": 0,
-          "description": "Step down Legendary Resistance in lieu of spending a plot point or to ignore an incoming complication or stress. Recover Legendary Resistance at the beginning of a new scene.",
+          "description": "Step down Resilience in lieu of spending a plot point or to ignore an incoming complication or stress. Recover Resilience at the beginning of a new scene.",
           "traits": null,
           "sfx": [],
           "tags": [],

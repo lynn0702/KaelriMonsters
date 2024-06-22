@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "6dee0291-11e6-4484-99b7-c096481bbf57",
-  "dateCreated": "2024-04-12T18:56:14.046Z",
-  "dateModified": "2024-04-12T18:56:14.046Z",
-  "dateTouched": "2024-04-12T18:56:14.046Z",
+  "id": "4d8156a9-14e2-4a84-9e12-b1f05c9dac3f",
+  "dateCreated": "2024-06-22T13:26:58.252Z",
+  "dateModified": "2024-06-22T13:26:58.252Z",
+  "dateTouched": "2024-06-22T13:26:58.252Z",
   "name": "Green Dragon Wyrmling D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -181,7 +181,7 @@
         {
           "name": "Poison Breath",
           "value": 0,
-          "description": "When you use your All-Out Attack SFX, any foe who is inflicted with Damaged stress is also given a D6 Poisoned complication, then shut down this SFX. Step down your Legendary Resistance asset to recover. Whenever that foe rolls to create a complication, stress, or asset, after that roll resolves, you can spend a plot point to step up their Poisoned complication.",
+          "description": "When you use your All-Out Attack SFX, any foe who is inflicted with Damaged stress is also given a D6 Poisoned complication, then shut down this SFX. Step down your Resilience asset to recover. Whenever that foe rolls to create a complication, stress, or asset, after that roll resolves, you can spend a plot point to step up their Poisoned complication.",
           "traits": null,
           "sfx": [],
           "tags": [],

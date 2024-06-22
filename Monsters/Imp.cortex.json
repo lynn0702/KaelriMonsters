@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "aa7f074b-74fa-4ca2-a4c5-eec316578a2a",
-  "dateCreated": "2024-04-12T18:56:14.230Z",
-  "dateModified": "2024-04-12T18:56:14.230Z",
-  "dateTouched": "2024-04-12T18:56:14.230Z",
+  "id": "307b8ff8-9356-4ca7-a93e-43fc64d49681",
+  "dateCreated": "2024-06-22T13:26:58.383Z",
+  "dateModified": "2024-06-22T13:26:58.383Z",
+  "dateTouched": "2024-06-22T13:26:58.383Z",
   "name": "Imp D8 D8 D8",
   "game": "",
   "description": null,
@@ -120,6 +120,15 @@
           "custom": {}
         },
         {
+          "name": "Devil’s Sight",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
           "name": "Paralyzing Tail Sting (Bite in Beast Form)",
           "value": 4,
           "description": "",
@@ -196,15 +205,6 @@
       "nounSingular": "SFX",
       "nounPlural": "",
       "traits": [
-        {
-          "name": "Devil's Sight",
-          "value": 0,
-          "description": "Magical darkness doesn't impede your darkvision.",
-          "traits": null,
-          "sfx": [],
-          "tags": [],
-          "custom": {}
-        },
         {
           "name": "Magic Resistance",
           "value": 0,

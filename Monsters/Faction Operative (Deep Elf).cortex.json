@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "e3849ee3-e184-4c6b-8e4a-5f2a9482c654",
-  "dateCreated": "2024-04-12T18:56:10.959Z",
-  "dateModified": "2024-04-12T18:56:10.959Z",
-  "dateTouched": "2024-04-12T18:56:10.959Z",
+  "id": "ee09db1e-155a-4e90-99d7-7640d93706ba",
+  "dateCreated": "2024-06-22T13:26:57.425Z",
+  "dateModified": "2024-06-22T13:26:57.425Z",
+  "dateTouched": "2024-06-22T13:26:57.425Z",
   "name": "Faction Operative (Deep Elf) D8",
   "game": "",
   "description": null,
@@ -154,18 +154,18 @@
       "nounPlural": "",
       "traits": [
         {
-          "name": "Ways of the Fey Realm",
+          "name": "Lies in the Dark",
           "value": 0,
-          "description": "When you take Enthralled or take a complication from magic that would affect your mind, spend a plot point to step down the stress or complication. Magic can never force you to sleep.",
+          "description": "While in sunlight, you hitch on ones and twos.",
           "traits": null,
           "sfx": [],
           "tags": [],
           "custom": {}
         },
         {
-          "name": "Sunlight Sensitivity",
+          "name": "Ways of the Fey Realm",
           "value": 0,
-          "description": "While in sunlight, you hitch on ones and twos.",
+          "description": "When you take Enthralled or take a complication from magic that would affect your mind, spend a plot point to step down the stress or complication. Magic can never force you to sleep.",
           "traits": null,
           "sfx": [],
           "tags": [],

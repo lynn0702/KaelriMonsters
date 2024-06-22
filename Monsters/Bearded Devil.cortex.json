@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "3241c5f0-3fe4-4890-91a3-df13a26d1918",
-  "dateCreated": "2024-04-12T18:56:04.847Z",
-  "dateModified": "2024-04-12T18:56:04.847Z",
-  "dateTouched": "2024-04-12T18:56:04.847Z",
+  "id": "ad262e1f-7694-42d8-aab9-6144411d3943",
+  "dateCreated": "2024-06-22T13:26:56.070Z",
+  "dateModified": "2024-06-22T13:26:56.070Z",
+  "dateTouched": "2024-06-22T13:26:56.070Z",
   "name": "Bearded Devil D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -93,6 +93,15 @@
           "custom": {}
         },
         {
+          "name": "Devil’s Sight",
+          "value": 8,
+          "description": "",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
           "name": "Glaive",
           "value": 10,
           "description": "",
@@ -139,15 +148,6 @@
           "name": "All-Out Attack",
           "value": 0,
           "description": "Spend a plot point to target multiple opponents when you roll to inflict Damaged stress. For each additional target, add D6 and keep an extra effect die.",
-          "traits": null,
-          "sfx": [],
-          "tags": [],
-          "custom": {}
-        },
-        {
-          "name": "Devil's Sight",
-          "value": 0,
-          "description": "Magical darkness doesn't impede your darkvision.",
           "traits": null,
           "sfx": [],
           "tags": [],

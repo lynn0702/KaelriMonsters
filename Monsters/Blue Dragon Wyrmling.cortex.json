@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "99958491-5189-4699-aae3-1359e407d8fb",
-  "dateCreated": "2024-04-12T18:56:04.987Z",
-  "dateModified": "2024-04-12T18:56:04.987Z",
-  "dateTouched": "2024-04-12T18:56:04.987Z",
+  "id": "fbf0ed92-a650-4823-a98a-eda74bc2fbd6",
+  "dateCreated": "2024-06-22T13:26:56.088Z",
+  "dateModified": "2024-06-22T13:26:56.088Z",
+  "dateTouched": "2024-06-22T13:26:56.088Z",
   "name": "Blue Dragon Wyrmling D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -147,7 +147,7 @@
         {
           "name": "Lightning Breath",
           "value": 0,
-          "description": "When you use your All-Out Attack SFX, add D8 for each additional target instead of a D6, then shut down this SFX. Step down your Legendary Resistance asset to recover.",
+          "description": "When you use your All-Out Attack SFX, add D8 for each additional target instead of a D6, then shut down this SFX. Step down your Resilience asset to recover.",
           "traits": null,
           "sfx": [],
           "tags": [],

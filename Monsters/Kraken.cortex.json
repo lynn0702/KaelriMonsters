@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "29a15bbe-3845-403a-827e-29cc71d826a6",
-  "dateCreated": "2024-04-12T18:56:14.257Z",
-  "dateModified": "2024-04-12T18:56:14.257Z",
-  "dateTouched": "2024-04-12T18:56:14.257Z",
+  "id": "6830d177-e448-42e5-a2cc-ec5a7ff72743",
+  "dateCreated": "2024-06-22T13:26:58.414Z",
+  "dateModified": "2024-06-22T13:26:58.414Z",
+  "dateTouched": "2024-06-22T13:26:58.414Z",
   "name": "Kraken D12 D12 D12 D12 D12",
   "game": "",
   "description": null,
@@ -102,7 +102,7 @@
           "custom": {}
         },
         {
-          "name": "Legendary Resistance",
+          "name": "Resilience",
           "value": 10,
           "description": "",
           "traits": [],
@@ -226,7 +226,7 @@
         {
           "name": "Lightning Storm",
           "value": 0,
-          "description": "When you use your All-Out Attack SFX, add D10 for each additional target instead of a D6, then shut down this SFX. Step down your Legendary Resistance asset to recover.",
+          "description": "When you use your All-Out Attack SFX, add D10 for each additional target instead of a D6, then shut down this SFX. Step down your Resilience asset to recover.",
           "traits": null,
           "sfx": [],
           "tags": [],

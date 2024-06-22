@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "739c184e-bb73-4911-9237-9115c8c8f9e7",
-  "dateCreated": "2024-04-12T18:56:14.936Z",
-  "dateModified": "2024-04-12T18:56:14.936Z",
-  "dateTouched": "2024-04-12T18:56:14.936Z",
+  "id": "1fdaee57-5363-44c9-8dc1-d87fdd2fc41c",
+  "dateCreated": "2024-06-22T13:26:58.835Z",
+  "dateModified": "2024-06-22T13:26:58.835Z",
+  "dateTouched": "2024-06-22T13:26:58.835Z",
   "name": "Veteran (Red Wyrmkin) D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -136,18 +136,18 @@
       "nounPlural": "",
       "traits": [
         {
-          "name": "Resistant",
+          "name": "All-Out Attack",
           "value": 0,
-          "description": "When a roll would inflict stress or a complication on you from fire, step down that roll’s effect die against you. You can also spend a plot point to ignore the stress or complication entirely.",
+          "description": "Spend a plot point to target multiple opponents when you roll to inflict Damaged stress. For each additional target, add D6 and keep an extra effect die.",
           "traits": null,
           "sfx": [],
           "tags": [],
           "custom": {}
         },
         {
-          "name": "All-Out Attack",
+          "name": "Resistant",
           "value": 0,
-          "description": "Spend a plot point to target multiple opponents when you roll to inflict Damaged stress. For each additional target, add D6 and keep an extra effect die.",
+          "description": "When a roll would inflict stress or a complication on you from fire, step down that roll’s effect die against you. You can also spend a plot point to ignore the stress or complication entirely.",
           "traits": null,
           "sfx": [],
           "tags": [],

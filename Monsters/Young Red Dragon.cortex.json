@@ -1,10 +1,10 @@
 {
   "$schema": "https://cortex.engard.me/data/cortex_character_schema.json",
   "version": "0.1",
-  "id": "6d0d2e74-867f-4e41-9a26-fd012073d201",
-  "dateCreated": "2024-04-12T18:56:15.926Z",
-  "dateModified": "2024-04-12T18:56:15.926Z",
-  "dateTouched": "2024-04-12T18:56:15.926Z",
+  "id": "a0c1a05b-68cc-4ac8-9428-cafc2d7ddbcb",
+  "dateCreated": "2024-06-22T13:26:59.006Z",
+  "dateModified": "2024-06-22T13:26:59.006Z",
+  "dateTouched": "2024-06-22T13:26:59.006Z",
   "name": "Young Red Dragon D8 D8 D8 D8 D8",
   "game": "",
   "description": null,
@@ -111,7 +111,7 @@
           "custom": {}
         },
         {
-          "name": "Legendary Resistance",
+          "name": "Resilience",
           "value": 4,
           "description": "",
           "traits": [],
@@ -226,7 +226,7 @@
         {
           "name": "Fire Breath",
           "value": 0,
-          "description": "When you use your All-Out Attack SFX, add D8 for each additional target instead of a D6, then shut down this SFX. Step down your Legendary Resistance asset to recover.",
+          "description": "When you use your All-Out Attack SFX, add D8 for each additional target instead of a D6, then shut down this SFX. Step down your Resilience asset to recover.",
           "traits": null,
           "sfx": [],
           "tags": [],
